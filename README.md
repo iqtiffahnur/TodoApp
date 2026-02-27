@@ -36,6 +36,6 @@ npm install
 # 3) Start dev server
 npm start
 # or, if using Vite:
-# npm run dev
+npm run dev
 
 Open: http://localhost:3000 (or the port shown in your terminal)
