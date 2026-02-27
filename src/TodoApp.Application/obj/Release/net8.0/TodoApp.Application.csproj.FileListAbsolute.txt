@@ -1,0 +1,16 @@
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\bin\Release\net8.0\TodoApp.Application.deps.json
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\bin\Release\net8.0\TodoApp.Application.dll
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\bin\Release\net8.0\TodoApp.Application.pdb
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\bin\Release\net8.0\TodoApp.Core.dll
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\bin\Release\net8.0\TodoApp.Core.pdb
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.csproj.AssemblyReference.cache
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.AssemblyInfoInputs.cache
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.AssemblyInfo.cs
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.sourcelink.json
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp..05D78BBE.Up2Date
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.dll
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\refint\TodoApp.Application.dll
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\TodoApp.Application.pdb
+C:\Users\MSE_TEST\Net\TodoApp\src\TodoApp.Application\obj\Release\net8.0\ref\TodoApp.Application.dll

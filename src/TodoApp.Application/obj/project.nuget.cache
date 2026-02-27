@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z562LriUCq8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSE_TEST\\Net\\TodoApp\\src\\TodoApp.Application\\TodoApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSE_TEST\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.17\\microsoft.netcore.app.runtime.win-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\MSE_TEST\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.17\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.17.nupkg.sha512",
+    "C:\\Users\\MSE_TEST\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.17\\microsoft.aspnetcore.app.runtime.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
