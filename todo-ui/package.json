@@ -1,6 +1,6 @@
 {
   "name": "todo-ui",
-  "homepage":"https://iqtiffahnur.github.io/ToDoApp",
+  "homepage":"https://iqtiffahnur.github.io/TodoApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
